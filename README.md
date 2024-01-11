@@ -59,13 +59,14 @@ THEN I can save my initials and score
 
 ### ✅ Acceptance Criteria
 
-It's done when:
+Create a code quiz that contains the following requirements:
 
-- I am taking a coding quiz at the click of the start button to which a timer starts and I am presented with multiple choice questions.
-- I can answer the preset questions question and upon answer, I am presented with another question.
-- When I answer a question incorrectly, then time is subtracted from the clock.
-- When all questions are answered or the timer reaches 0, THEN the game is over.
-- When the game is over, then I can save my initials and score.
+- A start button that when clicked a timer starts and the first question appears.
+- Questions contain buttons for each answer.
+- When an answer is clicked, the next question appears
+- If the answer clicked was incorrect then subtract time from the clock
+- The quiz should end when all questions are answered or the timer reaches 0.
+- When the game ends, it should display their score and give the user the ability to save their initials and their score
 
 
 ## 🚀 INSTALLATION
