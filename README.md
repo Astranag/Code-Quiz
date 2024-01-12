@@ -24,7 +24,7 @@ Working with Web APIs: Code Quiz
 ### Preview
 
 The following image shows the web application's appearance and functionality:
-![ demo](assets/)
+![ demo](assets/08-web-apis-challenge-demo.gif)
 
 ## 💻 USAGE
 
