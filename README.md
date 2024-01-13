@@ -29,7 +29,7 @@ The following image shows the web application's appearance and functionality:
 
 ## 💻 USAGE
 
-[Visit the webpage here](https://astranag.github.io/)
+[Visit the webpage here](https://astranag.github.io/Code-Quiz/Code-Quiz-Code/)
 
 This app runs in the browser and features dynamically updated HTML and CSS (provided starter code) powered by JavaScript code that I've written. It has a responsive, clean, polished user interface, ensuring that it adapts to multiple screen sizes.
 
