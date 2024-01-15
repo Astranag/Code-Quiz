@@ -18,17 +18,18 @@ Working with Web APIs: Code Quiz
 ## 📖 DESCRIPTION
 
 ### 🎯 What is it about?
-
+The web app built for this challenge is a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. 
 
 
 ### Preview
 
 The following image shows the web application's appearance and functionality:
-![ demo](assets/)
+
+![ demo](assets/08-web-apis-challenge-demo.gif)
 
 ## 💻 USAGE
 
-[Visit the webpage here](https://astranag.github.io/)
+[Visit the webpage here](https://astranag.github.io/Code-Quiz/Code-Quiz-Code/)
 
 This app runs in the browser and features dynamically updated HTML and CSS (provided starter code) powered by JavaScript code that I've written. It has a responsive, clean, polished user interface, ensuring that it adapts to multiple screen sizes.
 
@@ -79,7 +80,7 @@ I received guidance from the TAs and instructors in collaboration with this proj
 
 Reference List:
 * https://www.w3schools.com/
-*
+* https://stackoverflow.com/
  
 ## 📜 LICENSE
 
