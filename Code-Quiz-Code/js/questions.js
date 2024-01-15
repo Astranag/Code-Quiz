@@ -17,7 +17,7 @@ const questions = [
       correctAnswer: "To create dynamic and interactive websites"
     },
     {
-      question: "2.	Which of the following is not a valid CSS selector? ",
+      question: "Which of the following is not a valid CSS selector? ",
       choices: ["#id", ".class", "//comment"],
       correctAnswer: "//comment"
     },
@@ -37,7 +37,7 @@ const questions = [
       correctAnswer: "HTML5"
     },
     {
-      question: "5.	Which of the following is not a JavaScript data type?",
+      question: "Which of the following is not a JavaScript data type?",
       choices: ["String", "Number", "Boolean", "Float"],
       correctAnswer: "Float"
     },
